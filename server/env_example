@@ -8,11 +8,11 @@ CORS_ORIGIN=http://127.0.0.1:7456
 NETWORK=testnet
 
 # Your MNEMONIC, 24 words separated by spaces
-MNEMONIC="gentle city oppose ...."
+MNEMONIC=""
 
 
 # Bot Token
-TELEGRAM_BOT_TOKEN=
+TELEGRAM_BOT_TOKEN=7890959824:AAHMfRgKf4aq-oeNRHHJ_t0gJOYsgA7aYvU
 
 # Alchemy Pay
 ALCHEMYPAY_SECRETKEY=
